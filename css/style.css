@@ -2,10 +2,6 @@
 
 Name: 		Ruizarch
 Version:    1.0
-Developer:	Nazar Miller (millerDigitalDesign)
-Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
-
-p.s. I am available for Freelance hire (UI design, web development). email: miller.themes@gmail.com
 
 ------------------------------------------- */
 /*--------------------------------------------
@@ -69,7 +65,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: "Outfit", sans-serif;
+  font-family: "Sofia Pro", sans-serif;
   font-size: 16px;
   font-weight: 300;
   color: rgba(0, 0, 0, 0.5);
@@ -160,7 +156,7 @@ h5,
 .mil-h5,
 h6,
 .mil-h6 {
-  font-family: "Outfit", sans-serif;
+  font-family: "Loos Wide", sans-serif;
   color: rgb(0, 0, 0);
   font-weight: 500;
   line-height: 120%;
@@ -380,7 +376,7 @@ a {
 }
 
 .mil-accent {
-  color: rgb(255, 152, 0);
+  color: #A7D037;
 }
 
 .mil-light {
@@ -407,7 +403,7 @@ a {
 }
 
 .mil-marker {
-  background-color: rgb(255, 152, 0);
+  background-color: #A7D037;
   padding: 0 5px;
 }
 
@@ -590,7 +586,7 @@ button
   border: none;
   letter-spacing: 2px;
   font-size: 12px;
-  background-color: rgb(255, 152, 0);
+  background-color: #A7D037;
   color: rgb(0, 0, 0);
   border-radius: 70px;
   padding: 0 15px 0 50px;
@@ -614,7 +610,7 @@ button
   transition: 0.4s cubic-bezier(0, 0, 0.3642, 1);
 }
 .mil-button svg path {
-  fill: rgb(255, 152, 0);
+  fill: #A7D037;
 }
 .mil-button.mil-icon-button {
   padding: 15px;
@@ -628,7 +624,7 @@ button
 }
 .mil-button.mil-icon-button-sm svg {
   margin-left: 0;
-  background-color: rgb(255, 152, 0);
+  background-color: #A7D037;
 }
 .mil-button.mil-icon-button-sm svg path {
   fill: rgb(0, 0, 0);
